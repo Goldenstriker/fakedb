@@ -1,6 +1,6 @@
 {
-  id: '1ec9bc35-d531-42ec-9045-7043b6062e28',
-  firstName: 'Test',
-  lastName: 'User',
-  email:'testuser@mail.com'
+  "id": "1ec9bc35-d531-42ec-9045-7043b6062e28",
+  "firstName": "Test",
+  "lastName": "User",
+  "email" : "testuser@mail.com"
 }
