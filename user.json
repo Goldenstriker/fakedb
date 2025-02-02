@@ -2,5 +2,6 @@
   "id": "1ec9bc35-d531-42ec-9045-7043b6062e28",
   "name": "Test User",
   "email" : "testuser@mail.com",
-  "profileImage": ""
+  "profileImage": "",
+  "role":"admin"
 }
